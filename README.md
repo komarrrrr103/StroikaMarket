@@ -4,7 +4,7 @@
 
 1\. Код классификатора КСР - «Классификатор-КСР»
 
-2\.Csv файлы с данными - “processed\_with\_params.xlsx” и «processed\_by\_category.xlsx”
+2\.Csv файлы с данными - “processed\_with\_params1.xlsx” и «processed\_by\_category1.xlsx”
 
 3\.Код для стримлит - «app\_5.py”
 
